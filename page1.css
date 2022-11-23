@@ -1,0 +1,73 @@
+body {
+    font-size: 15px;
+    font-weight: 800;
+    font-family: monospace;
+
+}
+
+h2{
+    font-size: 25px;
+}
+
+.котик{
+    width: 500px;
+    border-radius: 100px;
+    margin-bottom: 20px;
+    margin-left: 550px;
+    
+}
+ 
+.info p {
+    color: #86898f;
+    font-style: oblique;
+    text-decoration: double;
+    letter-spacing: 2px;
+    
+}
+
+.info {
+    margin-bottom: 20px;
+}
+
+.container {
+    max-width: 75%;
+    margin: auto;
+}
+
+a {
+    color: yellow;
+}
+
+
+
+.bg-blue{
+    background: orange;
+}
+
+
+.bg-green{
+    background: green;
+}
+
+.bg-yellow{
+    background: pink;
+} 
+    
+
+.bg-purple {
+    background: purple;
+}
+
+.bg-red{
+    background: blue;
+}
+
+.bg-grey{
+    background: yellow;
+}
+
+.card{
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
